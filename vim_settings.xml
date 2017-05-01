@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/cygwin64/home/diego/APCAutomation/src/Testng.xml" timestamp="1478113734344">
+        <mark key="[" line="10" column="32" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/ds/billing/purchase/proration.xml" timestamp="1473216862613">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -14,16 +17,36 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1493676721423">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-pageobjects/src/main/java/com/appdirect/web/pages/common/AdvancedPage.java" timestamp="1478206320384">
+        <mark key="[" line="335" column="44" />
+      </file>
+      <file name="C:/cygwin64/home/diego/test/src/main/java/com/apc/FirstTest.java" timestamp="1474493110856">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/ds/billing/purchase/contracts_channel_settings_dt.xml" timestamp="1473184435855">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/ds/devportal/smoke.xml" timestamp="1478535741443" />
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/ds/billing/purchase/smoke.xml" timestamp="1478535876747" />
       <file name="/a.dummy" timestamp="1473218071137">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.regexp" timestamp="1478206449325">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="134" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-testutils/src/main/java/com/appdirect/data/enums/PriceType.java" timestamp="1478206378679">
         <mark key="[" line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/ds/billing/purchase/addonsv2/zendesk_addonsv2.xml" timestamp="1474462313013">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/cygwin64/home/diego/APITEST/APCQA/src/main/java/com/apc/firsttest.java" timestamp="1474490572080">
         <mark key="[" line="4" column="0" />
@@ -35,31 +58,6 @@
         <mark key="]" line="11" column="10" />
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
-      </file>
-      <file name="C:/cygwin64/home/diego/APCAutomation/src/Testng.xml" timestamp="1478113734344">
-        <mark key="[" line="10" column="32" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1478113778384">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-pageobjects/src/main/java/com/appdirect/web/pages/common/AdvancedPage.java" timestamp="1478206320384">
-        <mark key="[" line="335" column="44" />
-      </file>
-      <file name="C:/cygwin64/home/diego/test/src/main/java/com/apc/FirstTest.java" timestamp="1474493110856">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/a.regexp" timestamp="1478206449325">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="134" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/ds/billing/purchase/addonsv2/zendesk_addonsv2.xml" timestamp="1474462313013">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/cygwin64/home/diego/APITEST/pom.xml" timestamp="1474490778425">
         <mark key="[" line="38" column="4" />
