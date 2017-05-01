@@ -38,7 +38,7 @@ public class LoadTest01 {
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         System.out.println("starting est");
 
-        driver.get("http://www.google.com");
+        driver.get("https://thepracticalsysadmin.com/setting-up-a-github-webhook-in-jenkins/");
         String search_text = "Buscar  Google";
         WebElement search_button = driver.findElement(By.name("btnK"));
  
