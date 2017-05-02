@@ -34,12 +34,15 @@
       <file name="/a.dummy" timestamp="1473218071137">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/api/account/v1/account/users/dt/salutation.xml" timestamp="1493729368111" />
       <file name="$USER_HOME$/Documents/Projecto/automation/src/main/java/com/mavenproject/LoadTest01.java" timestamp="1493679842565">
         <mark key="'" line="40" column="28" />
         <mark key="[" line="40" column="90" />
         <mark key="]" line="40" column="90" />
         <mark key="." line="40" column="90" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-runner/src/main/scripts/qaauto-runner-start.sh" timestamp="1493729040051" />
+      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-apiuser/src/main/java/com/appdirect/api/APIUser.java" timestamp="1493729492182" />
       <file name="/a.regexp" timestamp="1478206449325">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -49,6 +52,7 @@
       <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-testutils/src/main/java/com/appdirect/data/enums/PriceType.java" timestamp="1478206378679">
         <mark key="[" line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/com/appdirect/tests/api/marketplace/C2662.xml" timestamp="1493729291578" />
       <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/ds/billing/purchase/addonsv2/zendesk_addonsv2.xml" timestamp="1474462313013">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -59,6 +63,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/com/appdirect/tests/api/channel/C98562.xml" timestamp="1493729234606" />
       <file name="C:/cygwin64/home/diego/test/pom.xml" timestamp="1474493553023">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="10" />
