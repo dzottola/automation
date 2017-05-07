@@ -23,6 +23,7 @@
       <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-pageobjects/src/main/java/com/appdirect/web/pages/common/AdvancedPage.java" timestamp="1478206320384">
         <mark key="[" line="335" column="44" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-pageobjects/src/main/resources/com/appdirect/web/pages/other/SampleISVPage.properties" timestamp="1494191213824" />
       <file name="C:/cygwin64/home/diego/test/src/main/java/com/apc/FirstTest.java" timestamp="1474493110856">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -41,11 +42,11 @@
         <mark key="]" line="40" column="90" />
         <mark key="." line="40" column="90" />
       </file>
-      <file name="/a.regexp" timestamp="1494190800820">
+      <file name="/a.regexp" timestamp="1494191216977">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="134" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projecto/untitled/src/com/terst/ReadConfigProperty.java" timestamp="1493785631222">
         <mark key="[" line="10" column="91" />
@@ -55,6 +56,7 @@
       <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-testutils/src/main/java/com/appdirect/data/enums/PriceType.java" timestamp="1478206378679">
         <mark key="[" line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-pageobjects/src/main/java/com/appdirect/web/pages/appdirect/account/users/AddUserPage.java" timestamp="1494191249031" />
       <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/ds/billing/purchase/addonsv2/zendesk_addonsv2.xml" timestamp="1474462313013">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -95,7 +97,7 @@
         <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnRlc3RuZy90ZXN0bmcgLS0+Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>resource</text>
+        <text>properties</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Y29kaW5nPSJVVEYtOCI/Pgo8U2VjdXJlUGF5TWVzc2FnZT4KICAgIDxNZXNzYWdlSW5mbz4KICAgICAgICA8bWVzc2FnZUlEPjhhZjc5M2Y5YWYzNGJlYTBjZjQwZjVmYjc1MGY2NDwvbWVzc2FnZUlEPgogICAgICAgIDxtZXNzYWdlVGltZXN0YW1wPjIwMTYwNTIzMTMzMDQ1MDAwMDAwKzY2MDwvbWVzc2FnZVRpbWVzdGFtcD4KICAgICAgICA8dGltZW91dFZhbHVlPjYwPC90aW1lb3V0VmFsdWU+CiAgICAgICAgPGFwaVZlcnNpb24+eG1sLTQuMjwvYXBpVmVyc2lvbj4KICAgIDwvTWVzc2FnZUluZm8+CiAgICA8TWVyY2hhbnRJbmZvPgogICAgICAgIDxtZXJjaGFudElEPkFVUDAwNkRNMDA2PC9tZXJjaGFudElEPgogICAgICAgIDxwYXNzd29yZD5hYmMxMjM8L3Bhc3N3b3JkPgogICAgPC9NZXJjaGFudEluZm8+CiAgICA8UmVxdWVzdFR5cGU+UGF5bWVudDwvUmVxdWVzdFR5cGU+CiAgICA8UGF5bWVudD4KICAgICAgICA8VHhuTGlzdCBjb3VudD0iMSI+CiAgICAgICAgICAgIDxUeG4gSUQ9IjEiPgogICAgICAgICAgICAgICAgPHR4blR5cGU+MDwvdHhuVHlwZT4KICAgICAgICAgICAgICAgIDx0eG5Tb3VyY2U+MjM8L3R4blNvdXJjZT4KICAgICAgICAgICAgICAgIDxhbW91bnQ+MjAwNDwvYW1vdW50PgogICAgICAgICAgICAgICAgPHJlY3VycmluZz5ubzwvcmVjdXJyaW5nPgogICAgICAgICAgICAgICAgPGN1cnJlbmN5PkFVRDwvY3VycmVuY3k+CiAgICAgICAgICAgICAgICA8cHVyY2hhc2VPcmRlck5vPjI0MDUxNjE1PC9wdXJjaGFzZU9yZGVyTm8+CiAgICAgICAgICAgICAgICA8c3VyY2hhcmdlSW5mbz4KICAgICAgICAgICAgICAgICAgICA8YW1vdW50PjIwMDQ8L2Ftb3VudD4KICAgICAgICAgICAgICAgICAgICA8cmF0ZT4xMDA8L3JhdGUKICAgICAgICAgICAgICAgICAgICA8ZmVlPjMwPC9mZWU+CiAgICAgICAgICAgICAgICA8L3N1cmNoYXJnZUluZm8+CiAgICAgICAgICAgICAgICA8Q3JlZGl0Q2FyZEluZm8+CiAgICAgICAgICAgICAgICAgICAgPGNhcmROdW1iZXI+NDExMTExMTExMTExMTExMTw8ZXhwaXJ5RGF0ZT4wOS8xNzwvZXhwaXJ5RGF0ZT4KICAgICAgICAgICAgICAgICAgICA8Y3Z2PjEyMzwvY3Z2PgogICAgICAgICAgICAgICAgICAgIDxjYXJkSG9sZGVyTmFtZT5jcmlzdGlhbiBFPC9jYXJkSG9sZGVyTmFtZT4KICAgICAgICAgICAgICAgIDwvQ3JlZGl0Q2FyZEluZm8+CiAgICAgICAgICAgIDwvVHhuPgogICAgICAgIDwvVHhuTGlzdD4KICAgIDwvUGF5bWVudD4KPC9TZWN1cmVQYXlNZXNzYWdlPg==</text>
@@ -122,7 +124,7 @@
         <text encoding="base64">ICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdGlkPm1hdmVuLWNvbXBpbGVyLXBsdWdpbjwvYXJ0aWZhY3RpZD4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxzb3VyY2U+IDEuNyA8L3NvdXJjZT4KICAgICAgICAgICAgICAgICAgICA8dGFyZ2V0PjEuNzwvdGFyZ2V0PgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICA8L3BsdWdpbj4=</text>
       </register>
       <register name="-" type="4">
-        <text>resource</text>
+        <text>properties</text>
       </register>
     </registers>
     <search>
