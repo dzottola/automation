@@ -7,20 +7,4 @@
       <class name="com.mavenproject.LoadTest01"/>
     </classes>
   </test> <!-- Test -->
-  <test name="Test(failed)">
-    <classes>
-      <class name="testcase.TestWebElement2">
-        <methods>
-          <include name="setUp"/>
-          <include name="findElemnt"/>
-        </methods>
-      </class> <!-- testcase.TestWebElement2 -->
-      <class name="com.mavenproject.LoadTest01">
-        <methods>
-          <include name="verifySearchButton"/>
-          <include name="beforeClass"/>
-        </methods>
-      </class> <!-- com.mavenproject.LoadTest01 -->
-    </classes>
-  </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
