@@ -11,8 +11,9 @@ public class ReadConfigProperty {
 	
 	public ReadConfigProperty(){
 		try {
-			
-			input = ReadConfigProperty.class.getClassLoader().getResourceAsStream("resource/config.properties");
+			System.out.println("aaaaaaaaaaaaaa ");
+
+			input = ReadConfigProperty.class.getClassLoader().getResourceAsStream("config.properties");
 			System.out.println("aaaaaaaaaaaaaa "+input.toString());
 			prop = new Properties();
 			
