@@ -60,18 +60,18 @@ public class StartWebDriver {
 			throw new NoSuchElementException("No Such Element:"+locator);
 	}
 	
-	@AfterSuite(alwaysRun=true)
-	public void tearDown(){
-		try {
-			driver.close();
-			driver.quit();
-			if(driver != null)
-				driver = null;
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
-	
-	}
+//	@AfterSuite(alwaysRun=true)
+//	public void tearDown(){
+//		try {
+//			driver.close();
+//			driver.quit();
+//			if(driver != null)
+//				driver = null;
+//		} catch (Exception e) {
+//			e.printStackTrace();
+//		}
+//	
+//	}
 	
 	
 }

@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test verbose="2" name="Default test">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test">
     <classes>
+      <class name="testcase.TestWebElement2"/>
       <class name="com.mavenproject.LoadTest01"/>
     </classes>
-  </test> <!-- Default test -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Test -->
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.mavenproject.LoadTest01">
+        <methods>
+          <include name="verifySearchButton"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.mavenproject.LoadTest01 -->
+      <class name="testcase.TestWebElement2">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcase.TestWebElement2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
