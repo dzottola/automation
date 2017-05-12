@@ -11,8 +11,11 @@ public class ReadConfigProperty {
 	
 	public ReadConfigProperty(){
 		try {
+			
 			input = ReadConfigProperty.class.getClassLoader().getResourceAsStream("resource/config.properties");
+			System.out.println("aaaaaaaaaaaaaa "+input.toString());
 			prop = new Properties();
+			
 			prop.load(input);
 		} catch (Exception e) {
 			e.printStackTrace();
