@@ -3,7 +3,6 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <test name="Test">
     <classes>
-      <class name="testcase.TestWebElement2"/>
       <class name="com.mavenproject.LoadTest01"/>
     </classes>
   </test> <!-- Test -->
@@ -15,11 +14,6 @@
           <include name="beforeClass"/>
         </methods>
       </class> <!-- com.mavenproject.LoadTest01 -->
-      <class name="testcase.TestWebElement2">
-        <methods>
-          <include name="setUp"/>
-        </methods>
-      </class> <!-- testcase.TestWebElement2 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
