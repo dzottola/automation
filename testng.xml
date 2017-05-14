@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="testcase.SampleSauceTest"/>
+      <class name="testcase.testsacue"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
