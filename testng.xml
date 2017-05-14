@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<!-- <suite name="Suite">
-  <test name="Test">
-    <classes>
-      <class name="testcase.testsacue"/>
-    </classes>
-  </test> Test
-</suite> Suite -->
 
 <suite annotations="JDK" name="Scenario1" parallel="tests" thread-count="2" verbose="1">
 
@@ -14,15 +7,15 @@
     <test junit="false" name="Scenario1" preserve-order="true"> 
         <parameter name="browsertype" value="IE">   
         <classes>
-            <class name="testcase.testsacue"/>
+            <class name="testcase.TestPageObjectModel"/>
         </classes>
     </parameter></test>  
     
      <test junit="false" name="Scenario2" preserve-order="true"> 
         <parameter name="browsertype" value="IE">   
         <classes>
-            <class name="testcase.testsacue"/>
+            <class name="testcase.TestWebElement2"/>
         </classes>
-    </parameter></test>  
-    
+    </parameter> </test>  
+     
 </suite>
