@@ -2,16 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="37312" started-at="2017-05-14T04:27:56Z" finished-at="2017-05-14T04:28:33Z">
+  <suite name="Default suite" duration-ms="4485" started-at="2017-05-14T14:01:57Z" finished-at="2017-05-14T14:02:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="37312" started-at="2017-05-14T04:27:56Z" finished-at="2017-05-14T04:28:33Z">
-      <class name="testcase.testsacue">
-        <test-method status="PASS" signature="testLogin2()[pri:0, instance:testcase.testsacue@4b9e13df]" name="testLogin2" duration-ms="37288" started-at="2017-05-14T01:27:56Z" finished-at="2017-05-14T01:28:33Z">
+    <test name="Default test" duration-ms="4485" started-at="2017-05-14T14:01:57Z" finished-at="2017-05-14T14:02:01Z">
+      <class name="testcase.TestPageObjectModel">
+        <test-method status="PASS" signature="startSaucelabs()[pri:0, instance:testcase.TestPageObjectModel@5e5792a0]" name="startSaucelabs" is-config="true" duration-ms="12128" started-at="2017-05-14T11:01:44Z" finished-at="2017-05-14T11:01:57Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin2 -->
-      </class> <!-- testcase.testsacue -->
+        </test-method> <!-- startSaucelabs -->
+        <test-method status="PASS" signature="testcase()[pri:0, instance:testcase.TestPageObjectModel@5e5792a0]" name="testcase" duration-ms="4465" started-at="2017-05-14T11:01:57Z" finished-at="2017-05-14T11:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestPageObjectModel@5e5792a0]" name="tearDown" is-config="true" duration-ms="4895" started-at="2017-05-14T11:02:01Z" finished-at="2017-05-14T11:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestPageObjectModel -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
