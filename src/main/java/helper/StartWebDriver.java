@@ -16,6 +16,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.BeforeTest;
 
 public class StartWebDriver extends ElementRepository {
 
@@ -27,7 +28,7 @@ public class StartWebDriver extends ElementRepository {
 	public static WebDriver driver = null;
 	public static ReadConfigProperty file = null;
 
-	@BeforeSuite
+	@BeforeTest
 	public void startSaucelabs() throws MalformedURLException {
 		try {
 			DesiredCapabilities caps = DesiredCapabilities.firefox();
