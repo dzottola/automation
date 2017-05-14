@@ -3,6 +3,7 @@
 <suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
   <test name="Test">
     <classes>
+      <class name="testcase.TestPageObjectModel"/>
       <class name="testcase.TestWebElement2"/>
       <class name="com.mavenproject.LoadTest01"/>
     </classes>
