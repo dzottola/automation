@@ -12,6 +12,7 @@
       <class name="com.mavenproject.LoadTest01">
         <methods>
           <include name="verifySearchButton"/>
+          <include name="beforeClass"/>
         </methods>
       </class> <!-- com.mavenproject.LoadTest01 -->
       <class name="testcase.TestWebElement2">
