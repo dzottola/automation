@@ -3,9 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="testcase.TestPageObjectModel"/>
-      <class name="testcase.TestWebElement2"/>
-      <class name="com.mavenproject.LoadTest01"/>
+      <class name="testcase.SampleSauceTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
