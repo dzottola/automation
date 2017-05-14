@@ -5,13 +5,30 @@
   <test name="Scenario1">
     <parameter name="browsertype" value="IE"/>
     <classes>
-      <class name="testcase.testsacue"/>
+      <class name="testcase.TestPageObjectModel"/>
     </classes>
   </test> <!-- Scenario1 -->
   <test name="Scenario2">
     <parameter name="browsertype" value="IE"/>
     <classes>
-      <class name="testcase.testsacue"/>
+      <class name="testcase.TestWebElement2"/>
     </classes>
   </test> <!-- Scenario2 -->
+  <test name="Scenario2(failed)" parallel="tests">
+    <parameter name="browsertype" value="IE"/>
+    <classes>
+      <class name="testcase.TestPageObjectModel">
+        <methods>
+          <include name="startSaucelabs"/>
+        </methods>
+      </class> <!-- testcase.TestPageObjectModel -->
+      <class name="testcase.TestWebElement2">
+        <methods>
+          <include name="startSaucelabs"/>
+          <include name="findElemnt"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testcase.TestWebElement2 -->
+    </classes>
+  </test> <!-- Scenario2(failed) -->
 </suite> <!-- Failed suite [Scenario1] -->
