@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8611" started-at="2017-04-30T08:41:02Z" finished-at="2017-04-30T08:41:10Z">
+  <suite name="Default suite" duration-ms="4485" started-at="2017-05-14T14:01:57Z" finished-at="2017-05-14T14:02:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8611" started-at="2017-04-30T08:41:02Z" finished-at="2017-04-30T08:41:10Z">
-      <class name="com.mavenproject.LoadTest01">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.mavenproject.LoadTest01@46d56d67]" name="beforeClass" is-config="true" duration-ms="4997" started-at="2017-04-30T05:41:02Z" finished-at="2017-04-30T05:41:07Z">
+    <test name="Default test" duration-ms="4485" started-at="2017-05-14T14:01:57Z" finished-at="2017-05-14T14:02:01Z">
+      <class name="testcase.TestPageObjectModel">
+        <test-method status="PASS" signature="startSaucelabs()[pri:0, instance:testcase.TestPageObjectModel@5e5792a0]" name="startSaucelabs" is-config="true" duration-ms="12128" started-at="2017-05-14T11:01:44Z" finished-at="2017-05-14T11:01:57Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="verifySearchButton()[pri:0, instance:com.mavenproject.LoadTest01@46d56d67]" name="verifySearchButton" duration-ms="2941" started-at="2017-04-30T05:41:07Z" finished-at="2017-04-30T05:41:10Z">
+        </test-method> <!-- startSaucelabs -->
+        <test-method status="PASS" signature="testcase()[pri:0, instance:testcase.TestPageObjectModel@5e5792a0]" name="testcase" duration-ms="4465" started-at="2017-05-14T11:01:57Z" finished-at="2017-05-14T11:02:01Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifySearchButton -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.mavenproject.LoadTest01@46d56d67]" name="afterClass" is-config="true" duration-ms="659" started-at="2017-04-30T05:41:10Z" finished-at="2017-04-30T05:41:10Z">
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestPageObjectModel@5e5792a0]" name="tearDown" is-config="true" duration-ms="4895" started-at="2017-05-14T11:02:01Z" finished-at="2017-05-14T11:02:06Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- com.mavenproject.LoadTest01 -->
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestPageObjectModel -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

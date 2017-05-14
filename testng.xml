@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="Suite" parallel="false">
-  <test name="Test">
-    <classes>
-      <class name="com.mavenproject.LoadTest01"/>
-    </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite annotations="JDK" name="Scenario1" parallel="tests" thread-count="2" verbose="1">
+
+      
+    <test junit="false" name="Scenario1" preserve-order="true"> 
+        <parameter name="browsertype" value="IE">   
+        <classes>
+            <class name="testcase.TestPageObjectModel"/>
+        </classes>
+    </parameter></test>  
+    
+     <test junit="false" name="Scenario2" preserve-order="true"> 
+        <parameter name="browsertype" value="IE">   
+        <classes>
+            <class name="testcase.TestWebElement2"/>
+        </classes>
+    </parameter></test>  
+    
+</suite>

@@ -12,8 +12,6 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 //--
 import org.testng.Assert;
 //--
-import org.testng.annotations.AfterClass;
-//--
 import org.testng.annotations.BeforeClass;
 //--
 import org.testng.annotations.Test;
@@ -38,10 +36,14 @@ public class LoadTest01 {
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         System.out.println("starting est");
 
-        driver.get("https://thepracticalsysadmin.com/setting-up-a-github-webhook-in-jenkins/");
-        String search_text = "Buscar  Google";
+       //get("https://thepracticalsysadmin.com/setting-up-a-github-webhook-in-jenkins/");
+        driver.get("https://www.google.com");
+
+               
+        String search_text = "Buscar con Google";
         WebElement search_button = driver.findElement(By.name("btnK"));
- 
+        System.out.println("starting est");
+
         String text = search_button.getAttribute("value");
         System.out.println("closing est");
 
