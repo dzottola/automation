@@ -15,7 +15,8 @@
         <parameter name="browsertype" value="IE">   
         <classes>
             <class name="testcase.TestWebElement2"/>
+              <class name="testcase.TestWebElement2"/>
         </classes>
-    </parameter></test>  
-    
+    </parameter> </test>  
+     
 </suite>
