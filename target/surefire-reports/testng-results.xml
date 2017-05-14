@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Scenario1" duration-ms="38578" started-at="2017-05-14T14:04:06Z" finished-at="2017-05-14T14:04:45Z">
+  <suite name="Scenario1" duration-ms="38225" started-at="2017-05-14T16:33:12Z" finished-at="2017-05-14T16:33:50Z">
     <groups>
     </groups>
-    <test name="Scenario1" duration-ms="38341" started-at="2017-05-14T14:04:06Z" finished-at="2017-05-14T14:04:44Z">
+    <test name="Scenario2" duration-ms="38003" started-at="2017-05-14T16:33:12Z" finished-at="2017-05-14T16:33:50Z">
       <class name="testcase.testsacue">
-        <test-method status="PASS" signature="testLogin2()[pri:0, instance:testcase.testsacue@48140564]" name="testLogin2" duration-ms="38328" started-at="2017-05-14T11:04:06Z" finished-at="2017-05-14T11:04:44Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testLogin2 -->
-      </class> <!-- testcase.testsacue -->
-    </test> <!-- Scenario1 -->
-    <test name="Scenario2" duration-ms="38578" started-at="2017-05-14T14:04:06Z" finished-at="2017-05-14T14:04:45Z">
-      <class name="testcase.testsacue">
-        <test-method status="PASS" signature="testLogin2()[pri:0, instance:testcase.testsacue@7e0ea639]" name="testLogin2" duration-ms="38567" started-at="2017-05-14T11:04:06Z" finished-at="2017-05-14T11:04:45Z">
+        <test-method status="PASS" signature="testLogin2()[pri:0, instance:testcase.testsacue@7e0ea639]" name="testLogin2" duration-ms="37991" started-at="2017-05-14T13:33:12Z" finished-at="2017-05-14T13:33:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin2 -->
       </class> <!-- testcase.testsacue -->
     </test> <!-- Scenario2 -->
+    <test name="Scenario1" duration-ms="38225" started-at="2017-05-14T16:33:12Z" finished-at="2017-05-14T16:33:50Z">
+      <class name="testcase.testsacue">
+        <test-method status="PASS" signature="testLogin2()[pri:0, instance:testcase.testsacue@48140564]" name="testLogin2" duration-ms="38216" started-at="2017-05-14T13:33:12Z" finished-at="2017-05-14T13:33:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin2 -->
+      </class> <!-- testcase.testsacue -->
+    </test> <!-- Scenario1 -->
   </suite> <!-- Scenario1 -->
 </testng-results>

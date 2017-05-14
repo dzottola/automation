@@ -1,9 +1,11 @@
+testcase\SampleSauceTest.class
 helper\StartWebDriver.class
 testcase\TestWebElement2.class
 helper\CheckBoxHelper.class
 helper\GenericHelper.class
 helper\ButtonHelper.class
 helper\ReadConfigProperty.class
+helper\WindowHelper.class
 helper\ComboBoxHelper.class
 helper\ElementRepository.class
 helper\LinkHelper.class
@@ -11,4 +13,5 @@ PageObjects\LoginPage.class
 com\mavenproject\LoadTest01.class
 helper\TextBoxHelper.class
 testcase\TestPageObjectModel.class
+testcase\testsacue.class
 testcase\TestPageFactory.class
