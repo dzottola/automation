@@ -1,5 +1,5 @@
 #surefire
-#Fri May 12 14:01:05 ART 2017
+#Sat May 13 23:25:49 ART 2017
 testng.configurator=org.apache.maven.surefire.testng.conf.TestNG652Configurator
 testng.test.classpath=C\:\\Users\\diego\\workspace2\\MyMavenProject\\target\\test-classes
 classPathUrl.0=C\:\\Users\\diego\\workspace2\\MyMavenProject\\target\\test-classes

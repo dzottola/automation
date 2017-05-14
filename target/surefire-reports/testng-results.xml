@@ -2,26 +2,26 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="30890" started-at="2017-05-12T17:03:23Z" finished-at="2017-05-12T17:03:54Z">
+  <suite name="Suite" duration-ms="26685" started-at="2017-05-14T02:23:18Z" finished-at="2017-05-14T02:23:44Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="30890" started-at="2017-05-12T17:03:23Z" finished-at="2017-05-12T17:03:54Z">
+    <test name="Test" duration-ms="26685" started-at="2017-05-14T02:23:18Z" finished-at="2017-05-14T02:23:44Z">
       <class name="testcase.TestWebElement2">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestWebElement2@7a79be86]" name="setUp" is-config="true" duration-ms="11902" started-at="2017-05-12T14:03:11Z" finished-at="2017-05-12T14:03:23Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestWebElement2@34ce8af7]" name="setUp" is-config="true" duration-ms="11427" started-at="2017-05-13T23:23:06Z" finished-at="2017-05-13T23:23:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="findElemnt()[pri:0, instance:testcase.TestWebElement2@7a79be86]" name="findElemnt" duration-ms="21095" started-at="2017-05-12T14:03:23Z" finished-at="2017-05-12T14:03:44Z">
+        <test-method status="PASS" signature="findElemnt()[pri:0, instance:testcase.TestWebElement2@34ce8af7]" name="findElemnt" duration-ms="20924" started-at="2017-05-13T23:23:18Z" finished-at="2017-05-13T23:23:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- findElemnt -->
       </class> <!-- testcase.TestWebElement2 -->
       <class name="com.mavenproject.LoadTest01">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.mavenproject.LoadTest01@34ce8af7]" name="beforeClass" is-config="true" duration-ms="3166" started-at="2017-05-12T14:03:44Z" finished-at="2017-05-12T14:03:47Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.mavenproject.LoadTest01@b684286]" name="beforeClass" is-config="true" duration-ms="3240" started-at="2017-05-13T23:23:39Z" finished-at="2017-05-13T23:23:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="verifySearchButton()[pri:0, instance:com.mavenproject.LoadTest01@34ce8af7]" name="verifySearchButton" duration-ms="6610" started-at="2017-05-12T14:03:47Z" finished-at="2017-05-12T14:03:54Z">
+        <test-method status="PASS" signature="verifySearchButton()[pri:0, instance:com.mavenproject.LoadTest01@b684286]" name="verifySearchButton" duration-ms="2513" started-at="2017-05-13T23:23:42Z" finished-at="2017-05-13T23:23:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySearchButton -->

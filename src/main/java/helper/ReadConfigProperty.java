@@ -38,17 +38,17 @@ public class ReadConfigProperty {
 	}
 	
 	public String getUsername(){
-		if (prop.getProperty("Username") == null)
+		if (prop.getProperty("username") == null)
 			return "";
-		System.err.println("Username: "+prop.getProperty("Username"));
-		return prop.getProperty("Username");
+		System.err.println("Username: "+prop.getProperty("username"));
+		return prop.getProperty("username");
 	}
 	
 	public String getPassword(){
-		if (prop.getProperty("Password") == null)
+		if (prop.getProperty("password") == null)
 			return "";
-		System.err.println("Password: "+prop.getProperty("Password"));
-		return prop.getProperty("Password");
+		System.err.println("Password: "+prop.getProperty("password"));
+		return prop.getProperty("password");
 	}
 
 

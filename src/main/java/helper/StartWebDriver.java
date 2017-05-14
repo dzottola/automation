@@ -9,19 +9,22 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
-public class StartWebDriver {
+import com.gargoylesoftware.htmlunit.Page;
+
+public class StartWebDriver extends ElementRepository {
 
 	public static WebDriver driver = null;
-	
+	public static ReadConfigProperty file = null;
 	@BeforeSuite
 	public void setUp(){
 		try {
 			
-			ReadConfigProperty file = new ReadConfigProperty();
+			file = new ReadConfigProperty();
 			if ("firefox".equalsIgnoreCase(file.getBrowser())){
 				driver = new FirefoxDriver();
 			}else if ("chrome".equalsIgnoreCase(file.getBrowser())) {
@@ -35,6 +38,7 @@ public class StartWebDriver {
 				driver = new HtmlUnitDriver();
 			}
 			driver.get(file.getUrl());
+			PageFactory.initElements(driver, ElementRepository.class);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
