@@ -55,6 +55,7 @@
         <mark key="]" line="40" column="90" />
         <mark key="." line="40" column="90" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-apiuser/src/main/java/com/appdirect/api/APIUser.java" timestamp="1496647768096" />
       <file name="/a.regexp" timestamp="1494191216977">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -86,6 +87,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/ds/regression.xml" timestamp="1496648001242">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="46" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
@@ -93,7 +99,7 @@
         <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnRlc3RuZy90ZXN0bmcgLS0+Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>properties</text>
+        <text>-</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Y29kaW5nPSJVVEYtOCI/Pgo8U2VjdXJlUGF5TWVzc2FnZT4KICAgIDxNZXNzYWdlSW5mbz4KICAgICAgICA8bWVzc2FnZUlEPjhhZjc5M2Y5YWYzNGJlYTBjZjQwZjVmYjc1MGY2NDwvbWVzc2FnZUlEPgogICAgICAgIDxtZXNzYWdlVGltZXN0YW1wPjIwMTYwNTIzMTMzMDQ1MDAwMDAwKzY2MDwvbWVzc2FnZVRpbWVzdGFtcD4KICAgICAgICA8dGltZW91dFZhbHVlPjYwPC90aW1lb3V0VmFsdWU+CiAgICAgICAgPGFwaVZlcnNpb24+eG1sLTQuMjwvYXBpVmVyc2lvbj4KICAgIDwvTWVzc2FnZUluZm8+CiAgICA8TWVyY2hhbnRJbmZvPgogICAgICAgIDxtZXJjaGFudElEPkFVUDAwNkRNMDA2PC9tZXJjaGFudElEPgogICAgICAgIDxwYXNzd29yZD5hYmMxMjM8L3Bhc3N3b3JkPgogICAgPC9NZXJjaGFudEluZm8+CiAgICA8UmVxdWVzdFR5cGU+UGF5bWVudDwvUmVxdWVzdFR5cGU+CiAgICA8UGF5bWVudD4KICAgICAgICA8VHhuTGlzdCBjb3VudD0iMSI+CiAgICAgICAgICAgIDxUeG4gSUQ9IjEiPgogICAgICAgICAgICAgICAgPHR4blR5cGU+MDwvdHhuVHlwZT4KICAgICAgICAgICAgICAgIDx0eG5Tb3VyY2U+MjM8L3R4blNvdXJjZT4KICAgICAgICAgICAgICAgIDxhbW91bnQ+MjAwNDwvYW1vdW50PgogICAgICAgICAgICAgICAgPHJlY3VycmluZz5ubzwvcmVjdXJyaW5nPgogICAgICAgICAgICAgICAgPGN1cnJlbmN5PkFVRDwvY3VycmVuY3k+CiAgICAgICAgICAgICAgICA8cHVyY2hhc2VPcmRlck5vPjI0MDUxNjE1PC9wdXJjaGFzZU9yZGVyTm8+CiAgICAgICAgICAgICAgICA8c3VyY2hhcmdlSW5mbz4KICAgICAgICAgICAgICAgICAgICA8YW1vdW50PjIwMDQ8L2Ftb3VudD4KICAgICAgICAgICAgICAgICAgICA8cmF0ZT4xMDA8L3JhdGUKICAgICAgICAgICAgICAgICAgICA8ZmVlPjMwPC9mZWU+CiAgICAgICAgICAgICAgICA8L3N1cmNoYXJnZUluZm8+CiAgICAgICAgICAgICAgICA8Q3JlZGl0Q2FyZEluZm8+CiAgICAgICAgICAgICAgICAgICAgPGNhcmROdW1iZXI+NDExMTExMTExMTExMTExMTw8ZXhwaXJ5RGF0ZT4wOS8xNzwvZXhwaXJ5RGF0ZT4KICAgICAgICAgICAgICAgICAgICA8Y3Z2PjEyMzwvY3Z2PgogICAgICAgICAgICAgICAgICAgIDxjYXJkSG9sZGVyTmFtZT5jcmlzdGlhbiBFPC9jYXJkSG9sZGVyTmFtZT4KICAgICAgICAgICAgICAgIDwvQ3JlZGl0Q2FyZEluZm8+CiAgICAgICAgICAgIDwvVHhuPgogICAgICAgIDwvVHhuTGlzdD4KICAgIDwvUGF5bWVudD4KPC9TZWN1cmVQYXlNZXNzYWdlPg==</text>
@@ -120,7 +126,7 @@
         <text encoding="base64">ICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdGlkPm1hdmVuLWNvbXBpbGVyLXBsdWdpbjwvYXJ0aWZhY3RpZD4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxzb3VyY2U+IDEuNyA8L3NvdXJjZT4KICAgICAgICAgICAgICAgICAgICA8dGFyZ2V0PjEuNzwvdGFyZ2V0PgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICA8L3BsdWdpbj4=</text>
       </register>
       <register name="-" type="4">
-        <text>properties</text>
+        <text>-</text>
       </register>
     </registers>
     <search>
