@@ -3,24 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/ds/billing/purchase/contracts_channel_settings_dt.xml" timestamp="1473184435855">
-        <mark key="[" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/java/com/appdirect/framework/test/data/BillingApiXml.java" timestamp="1497079067626" />
-      <file name="/a.dummy" timestamp="1497075252386">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/api/custom/cloudfoundry.xml" timestamp="1497075185741" />
-      <file name="$MAVEN_REPOSITORY$/com/appdirect/api-specs/254.0/api-specs-254.0.jar!/com/appdirect/api/billing/vo/SubscriptionWS.class" timestamp="1497079159350" />
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/iam/account/applications/appdetails/appdetails.xml" timestamp="1497072442136" />
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-testutils/src/main/java/com/appdirect/data/enums/PriceType.java" timestamp="1478206378679">
-        <mark key="[" line="17" column="24" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/java/com/appdirect/tests/api/account/v2/randomstring/RandomStringTests.java" timestamp="1497071332474" />
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/java/com/appdirect/tests/iam/account/ApplicationsPagesTests.java" timestamp="1497072672364" />
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/java/com/appdirect/tests/api/billing/v1/customflow/FreeTrialTests.java" timestamp="1497079338999" />
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/com/appdirect/tests/api/billing/v1/customflow/C1091232.xml" timestamp="1497079152582" />
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/java/com/appdirect/tests/api/billing/v1/customflow/BillingTests.java" timestamp="1497078834290" />
       <file name="C:/cygwin64/home/diego/APCAutomation/src/Testng.xml" timestamp="1478113734344">
         <mark key="[" line="10" column="32" />
       </file>
@@ -30,12 +12,19 @@
       <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-pageobjects/src/main/java/com/appdirect/web/pages/common/AdvancedPage.java" timestamp="1478206320384">
         <mark key="[" line="335" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/java/com/appdirect/tests/api/account/v1/account/users/SignupTests.java" timestamp="1497071418683" />
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/api/billing/v1/billingtests.xml" timestamp="1497078589879" />
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/api/account/v2/account/users/iam/randomstring.xml" timestamp="1497071317225" />
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/api/developer/developer.xml" timestamp="1497075045248" />
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/api/account/v1/account/users/signup.xml" timestamp="1497071428877" />
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-apiuser/src/main/java/com/appdirect/api/group/billing/SubscriptionApi.java" timestamp="1497078793639" />
+      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/ds/billing/purchase/contracts_channel_settings_dt.xml" timestamp="1473184435855">
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1497075252386">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/api/billing/v1/billingtests.xml" timestamp="1497142300961" />
+      <file name="$MAVEN_REPOSITORY$/com/appdirect/api-specs/254.0/api-specs-254.0.jar!/com/appdirect/api/billing/vo/SubscriptionWS.class" timestamp="1497142274687" />
+      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/java/com/appdirect/framework/dataproviders/JavaBasedDataProvider.java" timestamp="1497142259232" />
+      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-testutils/src/main/java/com/appdirect/data/enums/PriceType.java" timestamp="1478206378679">
+        <mark key="[" line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/java/com/appdirect/tests/api/account/v1/account/companies/users/AssignUnassignTests.java" timestamp="1497142349847" />
     </filemarks>
     <jumps />
     <registers>
