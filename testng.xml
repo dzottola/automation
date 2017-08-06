@@ -14,7 +14,7 @@
      <test junit="false" name="Scenario2" preserve-order="true"> 
         <parameter name="browsertype" value="IE">   
         <classes>
-            <class name="testcase.TestWebElement2"/>
+            <class name="testcase.TestPageObjectModel"/>
         </classes>
     </parameter> </test>  
      
