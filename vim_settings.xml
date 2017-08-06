@@ -6,7 +6,7 @@
       <file name="C:/cygwin64/home/diego/APCAutomation/src/Testng.xml" timestamp="1478113734344">
         <mark key="[" line="10" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493679918644">
+      <file name="/Dummy.txt" timestamp="1502016558401">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-pageobjects/src/main/java/com/appdirect/web/pages/common/AdvancedPage.java" timestamp="1478206320384">
@@ -18,14 +18,12 @@
       <file name="/a.dummy" timestamp="1497075252386">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/api/billing/v1/billingtests.xml" timestamp="1497142300961" />
-      <file name="$MAVEN_REPOSITORY$/com/appdirect/api-specs/254.0/api-specs-254.0.jar!/com/appdirect/api/billing/vo/SubscriptionWS.class" timestamp="1497142274687" />
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/java/com/appdirect/framework/dataproviders/JavaBasedDataProvider.java" timestamp="1497142259232" />
       <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-testutils/src/main/java/com/appdirect/data/enums/PriceType.java" timestamp="1478206378679">
         <mark key="[" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/java/com/appdirect/tests/api/account/v1/account/companies/users/AssignUnassignTests.java" timestamp="1497148494540" />
-      <file name="$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10-sources.jar!/org/testng/annotations/Optional.java" timestamp="1497143218982" />
+      <file name="/fragment.java" timestamp="1502016558417">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
