@@ -6,8 +6,10 @@
       <file name="C:/cygwin64/home/diego/APCAutomation/src/Testng.xml" timestamp="1478113734344">
         <mark key="[" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/APCAuto/src/main/java/testcase/apis/AuthApi.java" timestamp="1502736424854">
-        <mark key="[" line="27" column="6" />
+      <file name="$USER_HOME$/Documents/APCAuto/src/main/java/testcase/apis/AuthApi.java" timestamp="1502738388261">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1502736298055">
         <mark key="[" line="0" column="0" />
@@ -27,13 +29,16 @@
       <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-testutils/src/main/java/com/appdirect/data/enums/PriceType.java" timestamp="1478206378679">
         <mark key="[" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/APCAuto/src/main/java/testcase/apis/requests/testRequests.java" timestamp="1502736623699">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
+      <file name="$USER_HOME$/Documents/APCAuto/src/main/java/testcase/apis/requests/testRequests.java" timestamp="1502740245371">
+        <mark key="[" line="20" column="53" />
+        <mark key="]" line="20" column="53" />
+        <mark key="." line="20" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/APCAuto/testngAPI.xml" timestamp="1502736174791">
-        <mark key="[" line="4" column="19" />
+      <file name="$USER_HOME$/Documents/APCAuto/src/main/resources/config.properties" timestamp="1502739342088" />
+      <file name="$USER_HOME$/Documents/APCAuto/testngAPI.xml" timestamp="1502738233810">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
       </file>
       <file name="/fragment.java" timestamp="1502736298064">
         <mark key="[" line="0" column="0" />
@@ -41,38 +46,77 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnRlc3RuZy90ZXN0bmcgLS0+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHBhcmFtKCJsb2NhdGlvbiIsIi0zNC41OTA0NjMxLC01OC40MjU1OTMyLDE1IikuCiAgICAgICAgICAgICAgICBwYXJhbSgicmFkaXVzIiwiNTAwIikuCiAgICAgICAgICAgICAgICBwYXJhbSgia2V5IiwiQUl6YVN5QTBjRHVMVHZTY0pfM2VldXBWZU4wb25QWDByc2JpUnJvIiku</text>
       </register>
       <register name="&quot;" type="4">
-        <text>public v</text>
+        <text>bodyreq</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y29kaW5nPSJVVEYtOCI/Pgo8U2VjdXJlUGF5TWVzc2FnZT4KICAgIDxNZXNzYWdlSW5mbz4KICAgICAgICA8bWVzc2FnZUlEPjhhZjc5M2Y5YWYzNGJlYTBjZjQwZjVmYjc1MGY2NDwvbWVzc2FnZUlEPgogICAgICAgIDxtZXNzYWdlVGltZXN0YW1wPjIwMTYwNTIzMTMzMDQ1MDAwMDAwKzY2MDwvbWVzc2FnZVRpbWVzdGFtcD4KICAgICAgICA8dGltZW91dFZhbHVlPjYwPC90aW1lb3V0VmFsdWU+CiAgICAgICAgPGFwaVZlcnNpb24+eG1sLTQuMjwvYXBpVmVyc2lvbj4KICAgIDwvTWVzc2FnZUluZm8+CiAgICA8TWVyY2hhbnRJbmZvPgogICAgICAgIDxtZXJjaGFudElEPkFVUDAwNkRNMDA2PC9tZXJjaGFudElEPgogICAgICAgIDxwYXNzd29yZD5hYmMxMjM8L3Bhc3N3b3JkPgogICAgPC9NZXJjaGFudEluZm8+CiAgICA8UmVxdWVzdFR5cGU+UGF5bWVudDwvUmVxdWVzdFR5cGU+CiAgICA8UGF5bWVudD4KICAgICAgICA8VHhuTGlzdCBjb3VudD0iMSI+CiAgICAgICAgICAgIDxUeG4gSUQ9IjEiPgogICAgICAgICAgICAgICAgPHR4blR5cGU+MDwvdHhuVHlwZT4KICAgICAgICAgICAgICAgIDx0eG5Tb3VyY2U+MjM8L3R4blNvdXJjZT4KICAgICAgICAgICAgICAgIDxhbW91bnQ+MjAwNDwvYW1vdW50PgogICAgICAgICAgICAgICAgPHJlY3VycmluZz5ubzwvcmVjdXJyaW5nPgogICAgICAgICAgICAgICAgPGN1cnJlbmN5PkFVRDwvY3VycmVuY3k+CiAgICAgICAgICAgICAgICA8cHVyY2hhc2VPcmRlck5vPjI0MDUxNjE1PC9wdXJjaGFzZU9yZGVyTm8+CiAgICAgICAgICAgICAgICA8c3VyY2hhcmdlSW5mbz4KICAgICAgICAgICAgICAgICAgICA8YW1vdW50PjIwMDQ8L2Ftb3VudD4KICAgICAgICAgICAgICAgICAgICA8cmF0ZT4xMDA8L3JhdGUKICAgICAgICAgICAgICAgICAgICA8ZmVlPjMwPC9mZWU+CiAgICAgICAgICAgICAgICA8L3N1cmNoYXJnZUluZm8+CiAgICAgICAgICAgICAgICA8Q3JlZGl0Q2FyZEluZm8+CiAgICAgICAgICAgICAgICAgICAgPGNhcmROdW1iZXI+NDExMTExMTExMTExMTExMTw8ZXhwaXJ5RGF0ZT4wOS8xNzwvZXhwaXJ5RGF0ZT4KICAgICAgICAgICAgICAgICAgICA8Y3Z2PjEyMzwvY3Z2PgogICAgICAgICAgICAgICAgICAgIDxjYXJkSG9sZGVyTmFtZT5jcmlzdGlhbiBFPC9jYXJkSG9sZGVyTmFtZT4KICAgICAgICAgICAgICAgIDwvQ3JlZGl0Q2FyZEluZm8+CiAgICAgICAgICAgIDwvVHhuPgogICAgICAgIDwvVHhuTGlzdD4KICAgIDwvUGF5bWVudD4KPC9TZWN1cmVQYXlNZXNzYWdlPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBSZXN0QXNzdXJlZC5iYXNlVVJJID0gImh0dHA6Ly8xOTIuMTY4LjE1LjgzOjkwOTQiOwo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PHByb2plY3QgZGVmYXVsdD0idGVzdCI+CgogICAgPHRhcmdldCBuYW1lPSJ0ZXN0Ij4KICAgICAgICA8dGVzdG5nIGNsYXNzcGF0aHJlZj0iY3AiIGdyb3Vwcz0iZmFzdCI+CiAgICAgICAgICAgIDxjbGFzc2ZpbGVzZXQgZGlyPSJidWlsZCIgaW5jbHVkZXM9ImV4YW1wbGUxLyouY2xhc3MiLz4KICAgICAgICA8L3Rlc3RuZz4KICAgIDwvdGFyZ2V0PgoKPC9wcm9qZWN0Pg==</text>
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8c291cmNlZGlyZWN0b3J5PnRlc3RuZzwvc291cmNlZGlyZWN0b3J5Pgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgU3RyaW5nIGJvZHkgPSBudWxsOwkKCXN0YXRpYyBsb25nIHZhbHVlID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CglwdWJsaWMgc3RhdGljIFN0cmluZyBNVHhuSUQgPSBu</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8c291cmNlZGlyZWN0b3J5PnRlc3RuZzwvc291cmNlZGlyZWN0b3J5PgogICAgICAgIDxwbHVnaW5zPgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ci8vCUBCZWZvcmVUZXN0Ci8vCUBQYXJhbWV0ZXJzKHsgIlVzZXJJRCIsICJNZXJjaGFudElEIiwgIlRyYW5zYWN0aW9uVHlwZSIsICJWZXJzaW9uIiwgIkN1c3RvbTEiLCJUZXJtaW5hbElEIiwiQ3VycmVuY3kiLCAiQW1vdW50IiwKLy8JICAgICAgICAgIkNoYW5uZWxUeXBlIiwiTWV0aG9kIiwgIkNhcmROdW1iZXIiLCAiQ2FyZEhvbGRlciIsICJDYXJkRXhwaXJ5TW9udGgiLCAiQ2FyZEV4cGlyeVllYXIiLCAiQ2FyZENWViJ9KQovLwlwdWJsaWMgc3RhdGljIFN0cmluZyBnZW5lcmF0ZUJvZHkoQE9wdGlvbmFsIFN0cmluZyBVc2VySUQsQE9wdGlvbmFsIFN0cmluZyBNZXJjaGFudElELEBPcHRpb25hbCBTdHJpbmcgVHJhbnNhY3Rpb25UeXBlLEBPcHRpb25hbCBTdHJpbmcgVmVyc2lvbiwgQE9wdGlvbmFsIFN0cmluZyBDdXN0b20xLAovLwkJCUBPcHRpb25hbCBTdHJpbmcgVGVybWluYWxJRCwgQE9wdGlvbmFsIFN0cmluZyBDdXJyZW5jeSwgQE9wdGlvbmFsIFN0cmluZyBBbW91bnQsCi8vCQkJQE9wdGlvbmFsIFN0cmluZyBDaGFubmVsVHlwZSwgQE9wdGlvbmFsIFN0cmluZyBNZXRob2QsIEBPcHRpb25hbCBTdHJpbmcgQ2FyZE51bWJlciwgQE9wdGlvbmFsIFN0cmluZyBDYXJkSG9sZGVyLAovLwkJCUBPcHRpb25hbCBTdHJpbmcgQ2FyZEV4cGlyeU1vbnRoLEBPcHRpb25hbCBTdHJpbmcgQ2FyZEV4cGlyeVllYXIsIEBPcHRpb25hbCBTdHJpbmcgQ2FyZENWVil7Ci8vCi8vCVN0cmluZyByZXF1ZXN0Qm9keSA9ICJ7IiArICJcIkhlYWRlclwiOiB7IgovLwkJCSsiXCJVc2VySURcIjogXCIiK1VzZXJJRCsiXCIsIgovLwkJCSsgIlwiTWVyY2hhbnRJRFwiOiBcIiIrTWVyY2hhbnRJRCsiXCIsIgovLwkJCSsgIlwiVHJhbnNhY3Rpb25UeXBlXCI6IFwiIitUcmFuc2FjdGlvblR5cGUrIlwiLCIKLy8JCQkrICJcIlZlcnNpb25cIjogXCIiK1ZlcnNpb24rIlwiLCIKLy8JCQkrICJcIkN1c3RvbTFcIjogXCIiK0N1c3RvbTErIlwiIisgIn0sIgovLwkJCSsgIlwiVHJhbnNhY3Rpb25cIjogeyIKLy8JCQkrICJcIlRlcm1pbmFsSURcIjogXCIiK1Rlcm1pbmFsSUQrIlwiLCIKLy8JCQkrICJcIk1lcmNoYW50VHhuSURcIjogXCJUZXNSZXN0QXNzdXJlZEFBIisgdmFsdWUgKyAiXCIsIgovLwkJCSsgIlwiQ3VycmVuY3lcIjogXCIiK0N1cnJlbmN5KyJcIiwiCi8vCQkJKyAiXCJBbW91bnRcIjogXCIiK0Ftb3VudCsiXCIsIgovLwkJCSsgIlwiQ2hhbm5lbFR5cGVcIjogXCIiK0NoYW5uZWxUeXBlKyJcIiwiCi8vCQkJKyAiXCJNZXRob2RcIjogXCIiK01ldGhvZCsiXCIiICsgIn0sIgovLwkJCSsgIlwiQ2FyZERldGFpbHNcIjogeyIKLy8JCQkrICJcIkNhcmROdW1iZXJcIjogXCIiK0NhcmROdW1iZXIrIlwiLCIKLy8JCQkrICJcIkNhcmRIb2xkZXJcIjogXCIiK0NhcmRIb2xkZXIrIlwiLCIKLy8JCQkrICJcIkNhcmRFeHBpcnlNb250aFwiOiBcIiIrQ2FyZEV4cGlyeU1vbnRoKyJcIiwiCi8vCQkJKyAiXCJDYXJkRXhwaXJ5WWVhclwiOiBcIiIrQ2FyZEV4cGlyeVllYXIrIlwiLCIKLy8JCQkrICJcIkNhcmRDVlZcIjogXCIiK0NhcmRDVlYrIlwiIisgIn0iICsgIn0iOwovLwlib2R5ID0gcmVxdWVzdEJvZHk7Ci8vCVN5c3RlbS5vdXQucHJpbnRsbigiSlNvbiBSZXF1ZXN0OiAiK2JvZHkpOwovLwovLwlyZXR1cm4gcmVxdWVzdEJvZHk7Ci8vCX0=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgPHBsdWdpbj4KCiAgICAgICAgPC9wbHVnaW5zPg==</text>
+        <text>(@Optional String UserID,@Optional String MerchantID,@Optional String TransactionType,@Optional String Version, @Optional String Custom1,
+			@Optional String TerminalID, @Optional String Currency, @Optional String Amount,
+			@Optional String ChannelType, @Optional String Method, @Optional String CardNumber, @Optional String CardHolder,
+			@Optional String CardExpiryMonth,@Optional String CardExpiryYear, @Optional String CardCVV) throws IOException, InterruptedException {
+		//String bodyreq = testRequests.getBody();
+		//test = new Capture();
+		//String bodyreq = getBody();
+		System.out.println(body);
+		RestAssured.baseURI = ApiHelper.readEndPoint();
+		System.out.println(&quot;asdfasdfasdfasdfsdf&quot;+ApiHelper.readEndPoint());
+		;</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAgPGFydGlmYWN0aWQ+bWF2ZW4tY29tcGlsZXItcGx1Z2luPC9hcnRpZmFjdGlkPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPHNvdXJjZT4gMS43IDwvc291cmNlPgogICAgICAgICAgICAgICAgICAgIDx0YXJnZXQ+MS43PC90YXJnZXQ+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDwvcGx1Z2luPg==</text>
+        <text>Response res =
+				given().contentType(&quot;application/json&quot;).body(&quot;{&quot; + &quot;\&quot;Header\&quot;: {&quot;
+						+&quot;\&quot;UserID\&quot;: \&quot;&quot;+UserID+&quot;\&quot;,&quot;
+						+ &quot;\&quot;MerchantID\&quot;: \&quot;&quot;+MerchantID+&quot;\&quot;,&quot;
+						+ &quot;\&quot;TransactionType\&quot;: \&quot;&quot;+TransactionType+&quot;\&quot;,&quot;
+						+ &quot;\&quot;Version\&quot;: \&quot;&quot;+Version+&quot;\&quot;,&quot;
+						+ &quot;\&quot;Custom1\&quot;: \&quot;&quot;+Custom1+&quot;\&quot;&quot;+ &quot;},&quot;
+						+ &quot;\&quot;Transaction\&quot;: {&quot;
+						+ &quot;\&quot;TerminalID\&quot;: \&quot;&quot;+TerminalID+&quot;\&quot;,&quot;
+						+ &quot;\&quot;MerchantTxnID\&quot;: \&quot;TesRestAssuredAA&quot;+ value + &quot;\&quot;,&quot;
+						+ &quot;\&quot;Currency\&quot;: \&quot;&quot;+Currency+&quot;\&quot;,&quot;
+						+ &quot;\&quot;Amount\&quot;: \&quot;&quot;+Amount+&quot;\&quot;,&quot;
+						+ &quot;\&quot;ChannelType\&quot;: \&quot;&quot;+ChannelType+&quot;\&quot;,&quot;
+						+ &quot;\&quot;Method\&quot;: \&quot;&quot;+Method+&quot;\&quot;&quot; + &quot;},&quot;
+						+ &quot;\&quot;CardDetails\&quot;: {&quot;
+						+ &quot;\&quot;CardNumber\&quot;: \&quot;&quot;+CardNumber+&quot;\&quot;,&quot;
+						+ &quot;\&quot;CardHolder\&quot;: \&quot;&quot;+CardHolder+&quot;\&quot;,&quot;
+						+ &quot;\&quot;CardExpiryMonth\&quot;: \&quot;&quot;+CardExpiryMonth+&quot;\&quot;,&quot;
+						+ &quot;\&quot;CardExpiryYear\&quot;: \&quot;&quot;+CardExpiryYear+&quot;\&quot;,&quot;
+						+ &quot;\&quot;CardCVV\&quot;: \&quot;&quot;+CardCVV+&quot;\&quot;&quot;+ &quot;}&quot; + &quot;}&quot;)
+
+						.when().post(&quot;http://192.168.15.83:9094/apc&quot;)
+						.then().log().all()
+						.assertThat().statusCode(200)
+						.and().contentType(ContentType.JSON)
+						.and().body(&quot;Result.ResponseCode&quot;, equalTo(&quot;1000&quot;))
+						.extract().response();
+
+		MTxnID = ApiHelper.rawToJson(res).get(&quot;Result.MerchantTxnID&quot;);
+		return MTxnID</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RpZD5tYXZlbi1jb21waWxlci1wbHVnaW48L2FydGlmYWN0aWQ+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8c291cmNlPiAxLjcgPC9zb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgPHRhcmdldA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBnZW5lcmF0ZUJvZHkoQE9wdGlvbmFsIFN0cmluZyBVc2VySUQsQE9wdGlvbmFsIFN0cmluZyBNZXJjaGFudElELEBPcHRpb25hbCBTdHJpbmcgVHJhbnNhY3Rpb25UeXBlLEBPcHRpb25hbCBTdHJpbmcgVmVyc2lvbiwgQE9wdGlvbmFsIFN0cmluZyBDdXN0b20xLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdGlkPm1hdmVuLWNvbXBpbGVyLXBsdWdpbjwvYXJ0aWZhY3RpZD4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxzb3VyY2U+IDEuNyA8L3NvdXJjZT4KICAgICAgICAgICAgICAgICAgICA8dGFyZ2V0PjEuNzwvdGFyZ2V0PgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICA8L3BsdWdpbj4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQlTdHJpbmcgYm9keXJlcSA9IHRlc3RSZXF1ZXN0cy5nZXRCb2R5KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>public v</text>
+        <text>bodyreq</text>
       </register>
     </registers>
     <search>
