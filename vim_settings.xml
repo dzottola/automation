@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="C:/cygwin64/home/diego/APCAutomation/src/Testng.xml" timestamp="1478113734344">
@@ -17,24 +17,20 @@
       <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-pageobjects/src/main/java/com/appdirect/web/pages/common/AdvancedPage.java" timestamp="1478206320384">
         <mark key="[" line="335" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/APCAuto/testng.xml" timestamp="1502734658384" />
       <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-tests/src/main/resources/testng/ds/billing/purchase/contracts_channel_settings_dt.xml" timestamp="1473184435855">
         <mark key="[" line="8" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1502053357607">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Automation/APCAuto/src/main/resources/config.properties" timestamp="1502657207163" />
-      <file name="$USER_HOME$/Documents/APCAuto/src/main/java/helper/api/ApiHelper.java" timestamp="1502734516316" />
       <file name="$USER_HOME$/IdeaProjects/QAAuto/qaauto-testutils/src/main/java/com/appdirect/data/enums/PriceType.java" timestamp="1478206378679">
         <mark key="[" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/APCAuto/src/main/java/testcase/apis/requests/testRequests.java" timestamp="1502740245371">
-        <mark key="[" line="20" column="53" />
+      <file name="$USER_HOME$/Documents/APCAuto/src/main/java/testcase/apis/requests/testRequests.java" timestamp="1503176943635">
+        <mark key="[" line="20" column="54" />
         <mark key="]" line="20" column="53" />
         <mark key="." line="20" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/APCAuto/src/main/resources/config.properties" timestamp="1502739342088" />
       <file name="$USER_HOME$/Documents/APCAuto/testngAPI.xml" timestamp="1502738233810">
         <mark key="[" line="21" column="28" />
         <mark key="]" line="21" column="28" />
