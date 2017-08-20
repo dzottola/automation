@@ -1,0 +1,5 @@
+<templateSet group="other">
+  <template name="syso" value="syso for intellij" description="System.out.println();" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
