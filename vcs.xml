@@ -16,6 +16,9 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\diego\Documents\" />
+    <option name="cloneParentDir" value="C:\Users\diego\Documents\NewAUTOproject" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:\Users\diego\Downloads" />
   </component>
 </application>
