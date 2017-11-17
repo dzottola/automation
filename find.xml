@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File '[APCAuto] - ...\src\main\java\helper\api\testrail\APIClient.java'" />
+    <option name="defaultScopeName" value="File '[APCAuto] - ...\src\main\java\helper\api\testrail\APIClient.java'" />
+    <option name="SEARCH_SCOPE" value="File '[APCAuto] - ...\src\main\java\helper\api\testrail\APIClient.java'" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
