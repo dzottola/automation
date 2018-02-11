@@ -22,6 +22,10 @@
           <option name="url" value="http://192.168.10.195/diego.zottola/APCAuto-light.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Wikia/selenium-tests.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\diego\Documents\NewAUTOproject" />
