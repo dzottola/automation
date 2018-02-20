@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[APCAuto] - ...\src\main\java\helper\GenericHelper.java'" />
     <option name="defaultScopeName" value="File '[APCAuto] - ...\src\main\java\helper\GenericHelper.java'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[APCAuto] - ...\src\main\java\helper\GenericHelper.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
